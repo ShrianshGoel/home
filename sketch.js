@@ -24,7 +24,7 @@ b1.size(width/5,height/5)
    b2.position(width/2.50,height/3)
    b2.class("o4"); 
   
-  b3=createElement("a","Iframe Browser").attribute("href","https://preview.p5js.org/shriansh.goel/present/JgY70OIIa")
+  b3=createElement("a","Iframe Browser").attribute("href","https://shrianshgoel.github.io/probable-telegram/")
   b3.size(width/5,height/5)
    b3.position(width/1.37,height/3)
 b3.class("o5")
